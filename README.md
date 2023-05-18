@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Ruby Morse Decoder <a name="about-project"></a>
+# 📖  <a name="about-project">Enumerable Ruby</a>
 
 Simple ruby program that defines the all?, any? and, filter methods of [Enumerable]()
 
